@@ -1,2 +1,2 @@
-def say(number):
+def say(number): #simple pass func
     pass
